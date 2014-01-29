@@ -19,14 +19,14 @@ windows:LIBS += -lshlwapi
 windows:LIBS += -lws2_32 -lole32 -loleaut32 -luuid -lgdi32
 BOOST_LIB_SUFFIX=
 
-BOOST_INCLUDE_PATH=C:/deps/boost
-BOOST_LIB_PATH=C:/deps/boost/stage/lib
-BDB_INCLUDE_PATH=c:/deps/db/build_unix
-BDB_LIB_PATH=c:/deps/db/build_unix
-OPENSSL_INCLUDE_PATH=c:/deps/openssl/include
-OPENSSL_LIB_PATH=c:/deps/openssl
-MINIUPNPC_LIB_PATH=c:/deps/miniupnpc
-MINIUPNPC_INCLUDE_PATH=c:/deps
+#BOOST_INCLUDE_PATH=C:/deps/boost
+#BOOST_LIB_PATH=C:/deps/boost/stage/lib
+#BDB_INCLUDE_PATH=c:/deps/db/build_unix
+#BDB_LIB_PATH=c:/deps/db/build_unix
+#OPENSSL_INCLUDE_PATH=c:/deps/openssl/include
+#OPENSSL_LIB_PATH=c:/deps/openssl
+#MINIUPNPC_LIB_PATH=c:/deps/miniupnpc
+#MINIUPNPC_INCLUDE_PATH=c:/deps
 
 
 
