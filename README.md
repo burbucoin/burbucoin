@@ -1,12 +1,12 @@
-# <center><big><b>This is Burbucoin Project.</b></big></center>
-<center>The real estate bubble coin.</center>
+# <center><big><b>Burbucoin Project</b></big></center>
+<center>Crypto-currency for trading financial assets</center>
 <br><br>
 
 <center>![burbucoin](src/qt/res/images/wallet_2.png)</center>
 
 <br><br>
 
-## <center><b>Specifications</b></center>
+## <center><b>Specs</b></center>
 <center>
 <b>Algorithm:</b> Scrypt<br>
 <b>Max Coin Limit:</b> 8,400,000,000<br>
