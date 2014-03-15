@@ -1,6 +1,8 @@
 Burbucoin integration/staging tree
 ================================
 https://www.burbucoin.org
+1) KWG
+2) Merged mining
 
 <center>![burbucoin](src/qt/res/images/wallet_2.png)</center>
 <br><br>
@@ -26,6 +28,8 @@ We have incorporated the lessons learned from housing bubble and subprime mortga
 <b>Madurity confirms:</b> 30<br>
 <b>Reward adjustment:</b>  halving each 4 years<br>
 <b>Difficulty adjustment:</b> KGW algorithm from block #24,000 <br>
+<b>Merged mining</b> prepared for merged mining from block #37,000 <br>
+
 
 
 ## <b>Downloads</b>
